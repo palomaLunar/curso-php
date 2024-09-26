@@ -1,0 +1,12 @@
+.usuario {
+padding: 10px;
+margin: 5px;
+background-color: blue;
+}
+
+.password {
+    padding: 10px;
+    margin: 5px;
+    background-color: aquamarine;
+
+}
